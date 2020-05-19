@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Path-Planning-Simulator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Path-Planning-Simulator/Python Simulator/RRT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Path-Planning-Simulator/Python Simulator/rrt-algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SetCoverPy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/drone-delivery-optimal-learning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/geojsonio.py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/geopandas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/github3.py" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/google-maps-services-python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/omg-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rrt-algorithms" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/geojsonio.py" vcs="Git" />
+  </component>
+</project>
